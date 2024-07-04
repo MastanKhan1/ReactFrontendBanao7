@@ -1,0 +1,44 @@
+.features-div{
+    margin: 5% 2%;
+}
+
+.features{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat((2, 1fr));
+    gap: 5%;
+}
+
+.f-item{
+    border-radius: 20px;
+    border: 2px solid rgb(219, 2, 219);
+    padding: 5%;
+}
+
+.f-heading , .f-para{
+    margin-bottom: 2%;
+}
+
+.f-btn{
+    padding: 2% 3%;
+    border: 1px solid rgb(219, 2, 219);
+    color: rgb(219, 2, 219);
+    border-radius: 10px ;
+}
+
+.purple:hover{
+    background-color: rgb(249, 130, 249);
+}
+
+
+.green:hover{
+    background-color: rgb(120, 254, 120);
+}
+
+.red:hover{
+    background-color: rgb(255, 84, 84);
+}
+
+.blue:hover{
+    background-color: rgb(163, 229, 255);
+}

@@ -1,0 +1,30 @@
+.test-two{
+    padding: 5% 2%;
+}
+
+.tw-container{
+    padding: 5%;
+    background-color: rgb(241, 241, 241);
+    border-radius: 10px;
+    border: 1px solid rgb(184, 184, 184);
+}
+
+.tw-heading, .tw-para{
+    margin-bottom: 1%;
+}
+
+.tw-items{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: baseline;
+    gap: 5%;
+}
+
+.audio, .acc{
+    background-color: rgb(198, 198, 198);
+    padding: 2% auto;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+}

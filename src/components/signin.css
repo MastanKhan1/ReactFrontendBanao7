@@ -1,0 +1,58 @@
+.sign{
+    width : 60%;
+    text-align: center;
+    padding: 2% 4%;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 0.8rem;
+    font-size: large;
+    border : 2px solid black;
+}
+
+.links{
+    margin-bottom: 1rem;
+}
+
+.signlink{
+    display: inline;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+    margin-left: 1rem;
+    font-size: larger;
+}
+
+
+.items{
+    padding: 2%;
+    width: 60%;
+    border: none;
+    text-align: center;
+    font-size : large;
+    margin: 0.5rem;
+    border-radius: 20px;
+    border : 2px solid black;
+}
+
+.conn{
+    margin-left: 7rem;
+}
+
+.check{
+    display: inline;
+}
+
+
+
+.check-label{
+    font-size: larger;
+    margin-left: 0.6rem;
+}
+
+.link:active{
+    padding-bottom: 2px;
+    border-bottom: 3px solid grey;
+    color: rgb(248, 55, 248);
+}

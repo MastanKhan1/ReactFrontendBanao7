@@ -1,0 +1,21 @@
+.main{
+    background-color: rgb(243, 243, 243);
+    padding: 3% 2%;
+}
+
+.body{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 7%;
+}
+
+.exp-title{
+    font-size: 3rem;
+    margin-bottom: 3rem;
+}
+
+.para{
+    line-height: 1.5rem;
+    font-size: 1.1rem;
+    text-align: start;
+}

@@ -1,0 +1,22 @@
+.t-one{
+    padding: 5% 2%;
+    background-color: rgb(218, 255, 243);
+}
+
+
+.t-container{
+    background-color: white;
+    padding: 2% 10%;
+    border-radius: 10px;
+    border: 1px solid rgb(231, 231, 231);
+}
+
+.t-heading, .t-para{
+    margin-bottom: 1%;
+}
+
+.t-btn{
+    padding: 1% 2%;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
